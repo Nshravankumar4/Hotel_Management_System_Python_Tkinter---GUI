@@ -9,3 +9,11 @@ THE NORMAL CODE IS NAMED AS MAIN.PY
 TO RUN THE GUI JUST EXECUTE MAINLY.PY
 
 Youtube link : https://youtu.be/PZ3Yq4KrpsQ
+
+How To Run :
+first you need install python.
+download project.
+extract project.
+double click in mainly.py.
+Project is run
+Thanks ....
