@@ -8,5 +8,7 @@ THE NORMAL CODE IS NAMED AS MAIN.PY
 
 TO RUN THE GUI JUST EXECUTE MAINLY.PY
 
+Youtube link : https://youtu.be/PZ3Yq4KrpsQ
+
 
  
